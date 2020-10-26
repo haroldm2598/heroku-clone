@@ -1,0 +1,18 @@
+@import 'utilities';
+
+.stats {
+	padding-top: 100px;
+
+	h3 {
+		max-width: 500px;
+		margin: auto;
+	}
+	.grid h3 {
+		font-size: 35px;
+	}
+
+	.grid p {
+		font-size: 20px;
+		font-weight: bold;
+	}
+}
